@@ -1,0 +1,2 @@
+rootProject.name='Gamebuddy'
+include ':app'

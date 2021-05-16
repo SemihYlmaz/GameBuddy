@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173192827118",
+    "project_id": "gamebuddyson",
+    "storage_bucket": "gamebuddyson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173192827118:android:f24a0889b9005d8714a3ff",
+        "android_client_info": {
+          "package_name": "com.example.gamebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173192827118-m5bg9ue0q9jbb0qo6lr93ahblg30ks2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmpbw0CyF8sKkchpW9SiK6YR8bp9dMJNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173192827118-m5bg9ue0q9jbb0qo6lr93ahblg30ks2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
