@@ -11,7 +11,9 @@ class Users {
     private var reddit: String = ""
     private var twitch: String = ""
 
-    constructor()
+    constructor(){
+
+    }
 
 
     constructor(
